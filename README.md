@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  ✔️Site Notícias da Cidade✔️
+  ✔️Site Tecblog✔️
 </h1>
 
 ## 💻 Sobre o projeto
