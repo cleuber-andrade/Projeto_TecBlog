@@ -16,7 +16,7 @@ Praticar os conhecimentos adquiridos sobre HTML5 e CSS
 
 ```
 
-## :pager: Tela principal da Site UNES 
+## :pager: Tela principal da Site TecBlog
 
  <img src="img/tecblog.jpg" alt="Tela Principal">
 
