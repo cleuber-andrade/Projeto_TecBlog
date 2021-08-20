@@ -16,6 +16,13 @@ Praticar os conhecimentos adquiridos sobre HTML5 e CSS
 
 ```
 
+## :wrench: Ferramentas Utilizadas
+
+<div style="display: inline_block"> <br>  
+  <img align="center" alt="cleuber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="cleuber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+</div> <br> 
+
 ## :pager: Tela principal da Site TecBlog
 
  <img src="img/tecblog.jpg" alt="Tela Principal">
