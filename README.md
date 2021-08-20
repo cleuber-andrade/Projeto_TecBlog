@@ -27,7 +27,7 @@ Praticar os conhecimentos adquiridos sobre HTML5 e CSS
 
  <img src="img/tecblog.jpg" alt="Tela Principal">
 
- # 👷 Como rodar
+## 👷 Como rodar
 
 ```bash
 # Clonar o repositório
